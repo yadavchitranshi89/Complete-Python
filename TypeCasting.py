@@ -208,3 +208,19 @@ s5 = str(b2)
 print(s4)
 print(s5)
 print(type(s4))
+
+
+
+# input() function
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+print(a + b)
+
+
+a = input("Enter first number: ")
+b = input("Enter second number: ")
+print(a + b)
+
+b1 = input("Enter name: ")
+print(b1)
